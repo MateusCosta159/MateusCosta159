@@ -1,5 +1,6 @@
 # 💫 About Me:
-Técnico em Desenvolvimento de Sistemas<br>Estou a procura de Estágio<br>Sempre em buscando aprender, e me atualizar sobre novas tecnologias
+Técnico em Desenvolvimento de Sistemas<br>Estou a procura de Estágio<br>Sempre em buscando aprender, e me atualizar sobre novas tecnologias<br>Graduando Análise e Desenvolvimento de Sistemas- IFSP
+
 
 
 
